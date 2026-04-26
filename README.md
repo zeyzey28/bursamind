@@ -178,7 +178,7 @@ BursaMind was developed collaboratively by:
 | Team Member | Main Contributions |
 |---|---|
 | Zeynep Ogulcan | Full-stack development, Supabase database/auth integration, report submission flow, AI-assisted risk analysis logic, OSRM routing integration, municipality and citizen panel development, GitHub preparation |
-| Azra Sugeç | UI/UX design support, citizen and municipality workflow planning, dashboard usability review, visual consistency feedback, feature testing, screenshot preparation |
+| Azra Sugeç | UI/UX design support, citizen and municipality workflow planning, dashboard usability review, visual consistency feedback, feature testing, screenshot preparation  |
 | Rüya Beste Güngör | Project research support, smart city use-case planning, Bursa location validation, report category testing, municipality response flow review, documentation support, final testing |
 
 All team members contributed to idea development, feature planning, testing, and final presentation preparation. Zeynep Ogulcan focused more on the software implementation and technical integration side of the project.
