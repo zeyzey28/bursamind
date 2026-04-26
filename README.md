@@ -2,6 +2,12 @@
 
 BursaMind is a professional smart city reporting and municipal response management platform specifically designed for the city of Bursa. It empowers citizens to report urban issues efficiently and provides municipality staff with intelligent triage and routing tools to manage these reports.
 
+## Live Demo
+
+You can try the live version of BursaMind here:
+
+[Open BursaMind](https://bursamind-alpha.vercel.app)
+
 ## 📋 Project Overview
 
 BursaMind bridges the gap between citizens and local government using artificial intelligence and location-aware services. Citizens can submit detailed reports including descriptions, photos, and precise map locations. The system automatically analyzes these reports using the Gemini AI API to determine the appropriate department, risk level, and emergency priority.
